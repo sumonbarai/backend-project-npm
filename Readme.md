@@ -2,7 +2,7 @@
 
 ## Installation
 
-- you have to install this package in your machine Dlobally
+- you have to install this package in your machine Globally
 - go to your terminal and run bellow command by root user in your machine
 
 ```javascript
